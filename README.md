@@ -1,10 +1,10 @@
-# Hi, I'm Serhii 👋
+# Hi, I'm Serhii 
 
 **Flutter & Firebase developer** based in Bath, UK — I build and ship real products solo.
 
-## 📱 Slovira — learn any pair of 33 languages
+##  Slovira — learn any of 33 languages
 
-My main project: a language-learning app I designed, built and shipped **solo, to four stores in ~4 months** — from a single codebase. (Source is private while the product is commercial — happy to walk through the code in an interview.)
+My main project: a language-learning app I designed, built and shipped **solo, to four stores in ~4 months** — from a single codebase. (Source is private while the product is commercial)
 
 [**App Store**](https://apps.apple.com/app/id6779954616) · [**Google Play**](https://play.google.com/store/apps/details?id=com.slovira.app) · [**Microsoft Store**](https://apps.microsoft.com/detail/9P23HG4KC5BT) · [**slovira.app**](https://slovira.app)
 
