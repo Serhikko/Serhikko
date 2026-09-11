@@ -15,7 +15,7 @@ My main project: a language-learning app I designed, built and shipped **solo, t
 
 ## 🥦 NutriCart
 
-Android (Kotlin) nutrition tracker I built for myself — a weekly meal plan that turns into a ready grocery list. → [Serhikko/NutriCart](https://github.com/Serhikko/NutriCart)
+Android (Kotlin) nutrition tracker I built for myself — a weekly meal plan that turns into a ready grocery list.(not done yet)→ [Serhikko/NutriCart](https://github.com/Serhikko/NutriCart)
 
 ## 🎓 Currently
 
