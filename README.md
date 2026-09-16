@@ -28,4 +28,4 @@ An Android (Kotlin) nutrition tracker I'm building for myself: a weekly meal pla
 ## Currently
 
 - BSc (Hons) Cyber Security at Bath Spa University, year 2. A grades in CodeLab, Web Dev I and Digital Forensics.
-- Open to Flutter/mobile freelance, part-time and placement roles: s.prynkevych@gmail.com
+- Open to Flutter/mobile/Web freelance, part-time and placement roles: s.prynkevych@gmail.com
