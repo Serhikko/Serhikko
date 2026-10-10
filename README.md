@@ -23,7 +23,7 @@ A desktop tool that turns YouTube and Spotify links into tagged MP3s with cover 
 
 ## NutriCart
 
-An Android (Kotlin) nutrition tracker I'm building for myself: a weekly meal plan that turns into a grocery list. Work in progress. [NutriCart]((https://nutri-cart-eta.vercel.app/))
+An Android (Kotlin) nutrition tracker I'm building for myself: a weekly meal plan that turns into a grocery list. Work in progress. [NutriCart]([https://nutri-cart-eta.vercel.app/])
 
 ## Currently
 
