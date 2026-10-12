@@ -26,7 +26,7 @@ A language-learning app for 33 languages. I built it in about four months and re
 
 ## NutriCart
 
-A nutrition tracker in three parts: an Android app, a website and the cloud backend that connects them. The weekly meal plan turns into a grocery list, and a partner can follow your day from the website. The source is private, but the website is live and opens without signing up: [nutri-cart-eta.vercel.app](https://nutri-cart-eta.vercel.app)
+A nutrition tracker in three parts: an Android app, a website and the cloud backend that connects them. The weekly meal plan turns into a grocery list, and a partner can follow your day from the website. The source is private, but you can try both: the [website](https://nutri-cart-eta.vercel.app) opens without signing up, and the [Android app](https://github.com/Serhikko/Serhikko/releases/latest) installs from its release page (Android 9 or newer).
 
 ![Four NutriCart Android screens with demo data: today's calorie ring, the weekly meal plan, the grocery list and the weekly statistics](images/nutricart-app.png)
 
