@@ -21,6 +21,8 @@ A language-learning app for 33 languages. I built it in about four months and re
 
 ![Four Slovira iPhone screens: the AI chat correcting a sentence, a flashcard with its translation and example, the book reader with a tapped word ready to add, and the built-in word library graded A1 to C2](images/slovira-app.png)
 
+![Four more Slovira iPhone screens: the built-in books shelf graded A1 to C2, a flashcard front before the translation is revealed, Speak mode with the microphone button, and the My Words list filtered by learning status](images/slovira-app-2.png)
+
 <sub>App Store screenshots. Translations are in Ukrainian, the language pair of the account used for the captures.</sub>
 
 - Stack: Flutter/Dart, Firebase (Auth, Firestore, Cloud Functions, FCM), offline-first with Hive and cloud sync
