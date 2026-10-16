@@ -38,7 +38,6 @@ A nutrition tracker in three parts: an Android app, a website and the cloud back
 - Food: barcode scanning, with product data from Open Food Facts and Ukrainian shop catalogues.
 - Languages: English and Ukrainian; the website also Belarusian and Russian.
 - Security: two attacker-style reviews of the website and database, then the fixes. Sign-in links work only in the browser that asked for them, security headers block injected scripts, each account has limits, and the data-access rules are tested as owner, partner and stranger.
-- Tests: 329 for the Android app, 551 for the website and 39 for the database. They run automatically on every change.
 
 ![The NutriCart website with demo data: one person's day in a desktop browser, and a phone in dark mode following their partner's day live](images/nutricart-web.png)
 
@@ -47,6 +46,10 @@ A nutrition tracker in three parts: an Android app, a website and the cloud back
 ## Ultimate Playlist
 
 A desktop tool that turns YouTube and Spotify links into tagged MP3s with cover art in one folder, with playlists you can export for a car USB stick, a phone or VLC. [Serhikko/ultimate-playlist](https://github.com/Serhikko/ultimate-playlist)
+
+![The Ultimate Playlist web UI on Windows: the library tab listing downloaded tracks with artist, length and date added, the download queue on the left, and the paste-a-link box at the top](images/ultimate-playlist.png)
+
+<sub>The local web UI, running on this PC.</sub>
 
 - Stack: Python, FastAPI, yt-dlp, mutagen, a plain HTML/JS web UI
 - Spotify links: track lists come from Spotify and the audio is matched on YouTube Music; optional Spotify sign-in (OAuth with PKCE) for your own playlists
