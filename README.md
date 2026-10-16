@@ -19,6 +19,12 @@ A language-learning app for 33 languages. I built it in about four months and re
 
 [App Store](https://apps.apple.com/app/id6779954616) · [Google Play](https://play.google.com/store/apps/details?id=com.slovira.app) · [Microsoft Store](https://apps.microsoft.com/detail/9P23HG4KC5BT) · [slovira.app](https://slovira.app)
 
+![Slovira on iPhone: the AI chat correcting a sentence, a flashcard in the study view, and the book reader with a tapped word translated](images/slovira-cover.png)
+
+![Three Slovira screens: a flashcard front, the card back with translation, audio and an example sentence, and the built-in word library graded A1 to C2](images/slovira-learn-words.png)
+
+<sub>App Store screenshots. Translations are in Ukrainian, the language pair of the account used for the captures.</sub>
+
 - Stack: Flutter/Dart, Firebase (Auth, Firestore, Cloud Functions, FCM), offline-first with Hive and cloud sync
 - Platforms: iOS, Android, Windows, Chrome and Firefox extensions, all on one Firestore backend
 - Features: spaced-repetition reviews (SM-2), an AI chat tutor (Cloud Functions with per-user quotas), a reader with 140+ graded books in 17 languages, XP and leaderboards, text-to-speech
