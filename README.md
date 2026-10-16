@@ -47,7 +47,7 @@ A nutrition tracker in three parts: an Android app, a website and the cloud back
 
 A desktop tool that turns YouTube and Spotify links into tagged MP3s with cover art in one folder, with playlists you can export for a car USB stick, a phone or VLC. [Serhikko/ultimate-playlist](https://github.com/Serhikko/ultimate-playlist)
 
-![The Ultimate Playlist web UI on Windows: the library tab listing downloaded tracks with artist, length and date added, the download queue on the left, and the paste-a-link box at the top](images/ultimate-playlist.png)
+![The Ultimate Playlist web UI on Windows: the paste-a-link box and download button at the top, the download queue on the left, the library tab listing downloaded tracks with artist, length and date added, and the player bar at the bottom](images/ultimate-playlist.png)
 
 <sub>The local web UI, running on this PC.</sub>
 
