@@ -19,9 +19,7 @@ A language-learning app for 33 languages. I built it in about four months and re
 
 [App Store](https://apps.apple.com/app/id6779954616) · [Google Play](https://play.google.com/store/apps/details?id=com.slovira.app) · [Microsoft Store](https://apps.microsoft.com/detail/9P23HG4KC5BT) · [slovira.app](https://slovira.app)
 
-![Slovira on iPhone: the AI chat correcting a sentence, a flashcard in the study view, and the book reader with a tapped word translated](images/slovira-cover.png)
-
-![Three Slovira screens: a flashcard front, the card back with translation, audio and an example sentence, and the built-in word library graded A1 to C2](images/slovira-learn-words.png)
+![Four Slovira iPhone screens: the AI chat correcting a sentence, a flashcard with its translation and example, the book reader with a tapped word ready to add, and the built-in word library graded A1 to C2](images/slovira-app.png)
 
 <sub>App Store screenshots. Translations are in Ukrainian, the language pair of the account used for the captures.</sub>
 
